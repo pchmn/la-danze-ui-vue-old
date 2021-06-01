@@ -1,0 +1,12 @@
+{
+  "name": "la-danze-ui-vue",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pchmn/la-danze-ui-vue.git",
+  "author": "pchmn",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
